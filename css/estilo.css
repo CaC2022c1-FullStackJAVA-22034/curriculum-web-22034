@@ -1,0 +1,20 @@
+
+/* Selector por etiqueta */
+h2 {
+    color:aqua; 
+    background: rgba(39, 90, 90, 1);
+}
+
+a {
+    background: rgb(220, 220, 150);
+}
+
+/* Selector por ID */
+#destacado {
+    color: #fff; /* Color como hexadecimal */
+}
+
+/* Selector por clase (class) */
+.titulo-academico {
+    background: beige;
+}
