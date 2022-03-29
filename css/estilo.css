@@ -1,7 +1,7 @@
 
 /* Selectores por etiqueta */
 
-body {
+html {
     font-family: Lato, Arial, sans-serif;
     font-size: 16px;
 }
@@ -12,10 +12,6 @@ h1,h2,h3 {
 
 h1, h2 {
     color: #2C637F;
-}
-
-h3 {
-    color: #5091B2;
 }
 
 h1 {
@@ -40,4 +36,18 @@ h3 {
 .datos-personales {
     list-style: none;
     padding: 0;
+}
+
+div.seccion {
+    background: #ccc;
+}
+
+.nombre-materia {
+    color: #5091B2;
+    font-style: italic;
+}
+
+.periodo {
+    font-size: 0.8rem;
+    color: black;
 }
